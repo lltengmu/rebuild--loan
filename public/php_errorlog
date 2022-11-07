@@ -1,0 +1,6 @@
+[01-Mar-2022 07:32:43 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/customer/www/fullygreatasia.admatrix-ai.com/public_html/laravel3/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/customer/www/fullygreatasia.admatrix-ai.com/public_html/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/customer/www/fullygreatasia.admatrix-ai.com/public_html/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/customer/www/fullygreatasia.admatrix-ai.com/public_html/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/customer/www/fullygreatasia.admatrix-ai.com/public_html/laravel3/vendor/laravel/framework/src/Illuminate/Found in /home/customer/www/fullygreatasia.admatrix-ai.com/public_html/laravel3/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258

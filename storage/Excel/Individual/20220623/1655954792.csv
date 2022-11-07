@@ -1,0 +1,5 @@
+﻿ID,名字,姓氏,貸款額,付款金額,付款日期,付款方式,無需付款,還款期,共同簽字人姓名,共同簽字人姓氏,提交至服務提供商,狀態
+2,灭之刃,鬼,124421,,,,,421412,,co_signer_last_name,"HK bank",服務提供者同意
+4,小姐,徐,412214,,,,,123123,,co_signer_last_name,"HK bank",提交
+5,client,1,10000,,,,,12,,co_signer_last_name,"HK bank",轉交到服務提供者
+6,steve,l,121212,,,,,12,,co_signer_last_name,"HK bank",提交

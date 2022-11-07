@@ -1,0 +1,1 @@
+<?php echo e($content); ?><?php /**PATH E:\phpEnv\www\localhost\resources\views/emails.blade.php ENDPATH**/ ?>

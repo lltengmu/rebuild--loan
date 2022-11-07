@@ -1,0 +1,5 @@
+/config/app.php
+.env
+./storage
+node_modules
+vendor
